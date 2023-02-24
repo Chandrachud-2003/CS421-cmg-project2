@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+aggregate_py_files.py
